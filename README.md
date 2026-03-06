@@ -9,7 +9,7 @@
 
 SafeHire AI is a predictive, privacy-first enterprise software suite designed for **Human Resources (HR) teams and Corporate Recruiters**. It actively prevents interviewers from asking illegal or non-compliant interview questions (e.g., age, marital status, pregnancy, religion) that result in costly discrimination lawsuits and PR damage.
 
-🎥 **[Watch our 2-Minute Demo Video Here](Insert_Your_Video_Link_Here)**
+🎥 **[Watch our 2-Minute Demo Video Here](https://drive.google.com/file/d/1zjhbtFYWdmZO5m1RR6MJrdmtgtw4x98f/view?usp=sharing)**
 
 ---
 
@@ -43,10 +43,3 @@ SafeHire AI is an API-first platform featuring two primary frontends connected t
 * **Live Edge Extension:** HTML, CSS, Vanilla JavaScript, Web Speech API
 
 ---
-
-## ⚙️ Local Installation & Setup
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YourUsername/SafeHire-AI.git](https://github.com/YourUsername/SafeHire-AI.git)
-cd SafeHire-AI
